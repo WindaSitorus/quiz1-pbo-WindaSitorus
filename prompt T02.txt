@@ -1,0 +1,10 @@
+sekarang aku mau kuis mata kuliah pbo jadi disini diberikan soal sebagai berikut
+ini dia gambarnya yang dimana dia seperti pola deret bilangan disana apakah pola yang diberikan oleh gambar tsb?
+coba perhatikan input yang diberikan dan sesuaikan dengan gambar dan soal yang di minta
+soal ini berhubungan dengan array
+coba jelaskan keseluruhannya
+lalu bagaimana cara menentukan kelompoknya
+cara menentukan indexnya
+jelaskan cara untuk membuat program yang mampu menentukan total nilai hanya untuk kelompok yang diminta
+maksud dari kode kelompok disini apa
+berarti dia dihitungnya sesuai kelompoknya ya    

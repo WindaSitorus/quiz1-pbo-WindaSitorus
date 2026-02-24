@@ -1,0 +1,9 @@
+jadi aku mau buat sistem yang mendukung operasional di loundry it del tolong berikan aku saran
+coba buat proses pembayarannya itu digabungkan ke bursar mahasiswa it del sekaligus per bulannya nantinya
+jadi mahasiswa di it del itu meloundru seminggu sekali dimana tiap mahasiswa me list pakaian yang akan di laundry di buku loundry yang seperti buku notes berisi kertas untuk tempat list londry lalu kertas tsb dimasukkan ke laundry bag beserta dengan pakaian yang akan di laundry dan dijemput oleh pihak loundry ke asrama masing masing, lalu laundry nya akan wajib datang besok sore dimana langsung diantar ke asrama masing masing. tolong abntu aku buatkan sistem loundry di it del dimana nanti disana terdapat juga keluhan dan kendala dari mahasiswa ataupun pihak luondry terhadap pakaian yang tidak sesuai ataupun tertukar dan posisi loundry ada dimana
+nah jadwal mahasiswa me loundry sesuai dengan asrama masing masing, dimana asrama max plack dan asrama ada lovelace me loundry di hari rabu dan akan datang di hari kamis, asrama simon laplace dan nikola tesla di hari selasa dan akan datang di hari rabu, asrama marie currie dan louis pastour dihari jumat dan akan datang di hari selasa dan asrama archimedes di hari senin dan akan datang di hari selasa
+oke sekarang berikan sistemnya dan cara kerja sistemnya
+id ordernya samakan saja dengan nimnya
+oke berikan code java nya
+deliverynya marrie currie dan louis pasteur itu di hari sabtunya
+coba buat proses pembayarannya itu digabungkan ke bursar mahasiswa it del sekaligus per bulannya nantinya
